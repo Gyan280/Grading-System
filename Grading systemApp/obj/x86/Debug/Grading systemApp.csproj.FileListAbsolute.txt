@@ -1,0 +1,9 @@
+C:\Users\F.O.P\AppData\Local\Temporary Projects\Grading systemApp\bin\Debug\Grading systemApp.exe
+C:\Users\F.O.P\AppData\Local\Temporary Projects\Grading systemApp\bin\Debug\Grading systemApp.pdb
+C:\Users\F.O.P\AppData\Local\Temporary Projects\Grading systemApp\obj\x86\Debug\Grading_systemApp.Form1.resources
+C:\Users\F.O.P\AppData\Local\Temporary Projects\Grading systemApp\obj\x86\Debug\Grading_systemApp.Properties.Resources.resources
+C:\Users\F.O.P\AppData\Local\Temporary Projects\Grading systemApp\obj\x86\Debug\Grading systemApp.csproj.GenerateResource.Cache
+C:\Users\F.O.P\AppData\Local\Temporary Projects\Grading systemApp\obj\x86\Debug\Grading systemApp.exe
+C:\Users\F.O.P\AppData\Local\Temporary Projects\Grading systemApp\obj\x86\Debug\Grading systemApp.pdb
+C:\Users\F.O.P\Desktop\C# Projects\Grading systemApp\Grading systemApp\obj\x86\Debug\Grading systemApp.exe
+C:\Users\F.O.P\Desktop\C# Projects\Grading systemApp\Grading systemApp\obj\x86\Debug\Grading systemApp.pdb
